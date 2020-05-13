@@ -6,7 +6,7 @@ Node.js（v12.14）で動作するCHaserクライアントのモジュールで�
 https://nodejs.org/ja/
 
 ## 実行方法
-※CHaserサーバーは旭川U16プロコンの物を利用（https://github.com/Yuya-003/AsahikawaProcon-Server）
+※CHaserサーバーは旭川U16プロコンの物を利用（[zipファイル](http://www.procon-asahikawa.org/files/U16-AsahikawaProcon-ServerQt1.93_windows.zip)）
 * Node.jsをインストール
 * 本リポジトリをclone
 * CHaserサーバーを起動
