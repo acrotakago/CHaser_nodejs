@@ -26,8 +26,6 @@ chaser.start(grCallback);
  * @param value 周辺情報
  */
 function grCallback(value) {
-    console.log('制御情報', value);
-    
     if (value[1] != 2) {
         chaser.walkUp(callback);
     }
@@ -47,6 +45,5 @@ function grCallback(value) {
  * @param value 周辺情報
  */
 function callback(value) {
-    console.log('制御情報', value);
     chaser.getReady(grCallback);
 }
