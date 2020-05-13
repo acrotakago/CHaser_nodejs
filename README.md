@@ -11,7 +11,7 @@ https://nodejs.org/ja/
 * 本リポジトリをclone
 * CHaserサーバーを起動
 * Cool or Hotのどちらかを待機状態にする
-* sample.jsを実行（Coolの場合）
+* sample.jsとCHaserClient.jsが置いてあるディレクトリでsample.jsを実行（Coolの場合）
 
 ```
 $ node sample.js bot 127.0.0.1 2009
